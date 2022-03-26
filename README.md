@@ -4,7 +4,7 @@
 
 # Laptop Zone
 
-Live Site Link:  [Live Website Link](https://github.com/facebook/create-react-app).
+Live Site Link:  [Live Website Link](https://laptop-zone.netlify.app/).
 
 ## Available Scripts
 
