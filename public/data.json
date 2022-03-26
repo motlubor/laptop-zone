@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "HP Pavilion",
+        "price": 45000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "intel core i5",
+        "price": 55000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "HP Notebook 15A",
+        "price": 65000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Huawei Global",
+        "price": 75000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Dell Latitude",
+        "price": 80000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Yoga Slim",
+        "price": 85000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Lenovo IdeaPad",
+        "price": 90000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Lenovo ThinkPad",
+        "price": 42000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 9,
+        "name": "ThinkPad p14",
+        "price": 57000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 10,
+        "name": "Lenovo G40",
+        "price": 62000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Zenbox 14",
+        "price": 73000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    },
+    {
+        "id": 12,
+        "name": "Asus X515",
+        "price": 52000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+    }
+]
