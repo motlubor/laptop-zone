@@ -6,6 +6,7 @@
 .item{
     margin-bottom: 30px;
 }
+
 .choose-btn{
     border: 1px solid green;
     border-radius: 5px;
@@ -19,4 +20,12 @@
     margin: 10px;
     color: violet;
     padding: 5px;
+}
+.choose{
+    border: 1px solid blue;
+    border-radius: 4px;
+}
+.choose:hover{
+    color: olivedrab;
+    background-color: cornsilk;
 }

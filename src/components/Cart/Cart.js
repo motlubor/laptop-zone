@@ -1,16 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Product from '../Product/Product';
 import './Cart.css'
 
 const Cart = ({ cart }) => {
     // console.log(cart);
+    const [choose, setChoose] = useState([]);
 
 
 
     const handleClick = () => {
 
         const randomChoose = cart[Math.floor(cart.length * Math.random())];
-        console.log(randomChoose);
+        const choose = randomChoose;
+        setChoose(choose)
 
     }
 
@@ -25,7 +27,7 @@ const Cart = ({ cart }) => {
             <h5>{cart[2]}</h5>
             <h5>{cart[3]}</h5>
             <br />
-            <p>You Choose:</p>
+            <p className='choose'>You Choose:{choose}</p>
             <button onClick={handleClick} className='choose-btn'>CHOOSE ONE FOR ME</button>
             <button className='choose-again'>Choose Again</button>
 
