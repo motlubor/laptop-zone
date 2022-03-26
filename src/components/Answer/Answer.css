@@ -1,0 +1,14 @@
+.answer-container{
+margin-top: 60px;
+border: 1px green;
+
+}
+.centering{
+    border: 2px solid rgb(124, 46, 202);
+    border-radius: 20px;
+    margin: 100px;
+    text-align: center;
+    display: block;
+    justify-content:center ;
+    background-color: bisque;
+}
