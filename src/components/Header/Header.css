@@ -1,6 +1,14 @@
 .header{
-  background-color: rgb(236, 233, 229);
+  background-color: rgb(173, 222, 241);
   padding: 20px;
   margin-bottom: 70px;
-
+  
+}
+.laptop{
+  color: seagreen;
+  font-size: 35px;
+}
+.choosing{
+  color:rgb(236, 105, 138);
+  font-size: 24px;
 }

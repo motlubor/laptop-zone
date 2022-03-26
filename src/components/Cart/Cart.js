@@ -21,13 +21,13 @@ const Cart = ({ cart }) => {
 
     return (
         <div className='cart'>
-            <h4 className='item'>Selected Items</h4>
-            <h5>{cart[0]}</h5>
-            <h5>{cart[1]}</h5>
-            <h5>{cart[2]}</h5>
-            <h5>{cart[3]}</h5>
+            <h3 className='item'>Selected Items</h3>
+            <h4>{cart[0]}</h4>
+            <h4>{cart[1]}</h4>
+            <h4>{cart[2]}</h4>
+            <h4>{cart[3]}</h4>
             <br />
-            <p className='choose'>You Choose:{choose}</p>
+            <p className='choose'>You Choose: {choose}</p>
             <button onClick={handleClick} className='choose-btn'>CHOOSE ONE FOR ME</button>
             <button className='choose-again'>Choose Again</button>
 

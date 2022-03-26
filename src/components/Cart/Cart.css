@@ -24,6 +24,7 @@
 .choose{
     border: 1px solid blue;
     border-radius: 4px;
+    color: hotpink;
 }
 .choose:hover{
     color: olivedrab;

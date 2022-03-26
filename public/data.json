@@ -21,7 +21,7 @@
         "id": 4,
         "name": "Huawei Global",
         "price": 75000,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
     },
     {
         "id": 5,
@@ -33,7 +33,7 @@
         "id": 6,
         "name": "Yoga Slim",
         "price": 85000,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
     },
     {
         "id": 7,
@@ -45,7 +45,7 @@
         "id": 8,
         "name": "Lenovo ThinkPad",
         "price": 42000,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
     },
     {
         "id": 9,
@@ -57,7 +57,7 @@
         "id": 10,
         "name": "Lenovo G40",
         "price": 62000,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
     },
     {
         "id": 11,
@@ -69,6 +69,6 @@
         "id": 12,
         "name": "Asus X515",
         "price": 52000,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhyG2ydwYbhpC1XK-HxN22Z-84UF8kR5Ndw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b20t4kYk3FuVBf1lKqtXpHrOwCRgJxIg9g&usqp=CAU"
     }
 ]
